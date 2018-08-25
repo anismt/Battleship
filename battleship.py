@@ -1,3 +1,5 @@
+# Anis Tariq
+
 from random import randint
 
 board = []
